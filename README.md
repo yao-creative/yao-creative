@@ -2,7 +2,7 @@
 
 I recently left my startup where I was technical co-founder in the Content Creator Industry. Looking for opportunities with a preference to relocate to London.
 
-I'm a Math + CS major. I believe that being a generalist is important to compress ownership, understanding of product, and reduces communication tax. I also believe good things happen when we keep trying. 
+I'm a Math + CS major. I believe that being a generalist is important to compress ownership, understanding of product, challenges the way I think, and reduces communication tax. I also believe good things happen when we keep trying. 
 
 I write a bit. My latest blog article : [Invariants](https://yiyaotan-site.vercel.app/blog/ee/invariants/)
 
