@@ -6,7 +6,7 @@ I'm a Math + CS major. I believe that being a generalist is important to compres
 
 I write a bit. My latest blog article : [Invariants](https://yiyaotan-site.vercel.app/blog/ee/invariants/)
 
-- 📚 Book Recommendations: The Practicing Stoic (William Wordsworth), The Pragmatic Programmer (David Thomas, Andrew Hunt), Caves of Steel (Isaac Asimov), Emotional Intelligence (Daniel Goleman) --> please give me some in return : D
+- 📚 Book Recommendations: The Practicing Stoic (William Wordsworth), The Pragmatic Programmer (David Thomas, Andrew Hunt), Caves of Steel (Isaac Asimov), Emotional Intelligence (Daniel Goleman), Eugene Yan's Blog --> please give me some in return : D
 
 - 🔭 I'd be interested in working in Hard Science/ Technical roles in startups. Especially applied companies with long horizons.
   
