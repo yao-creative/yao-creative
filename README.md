@@ -10,7 +10,7 @@ I write a bit. My latest blog article : [Invariants](https://yiyaotan-site.verce
 
 - 🔭 I'd be interested in working in Hard Science/ Technical roles in startups. Especially applied companies with long horizons.
   
-- 🌱 I'm currently studying Rust, Algorithms for context management by observing Open Source Repositories such as Codex, Reviewing my Algorithms.
+- 🌱 I'm currently studying Rust, Algorithms for context management and task execution for AI Agents by observing Open Source Repositories such as Codex, Reviewing my Algorithms.
   
 - 🤔 My stack of to learn list: Generative Recommendation Systems (SIGIR, Recsys), Diffusion Models (In progress), Relational Foundational Models, MLOps (actual practice), Systems Design, Topological Data Analysis, Contextual Bandits, A/B testing, Reinforcement Learning and Control Systems, Applications of Graph Neural Networks, Causal ML, Geometric Deep Learning, Galois Theory, Functional Analysis, Dynamic Systems, Category Theory and Functional Programming, Structural Economics and Factor Models, Database Systems.
   
