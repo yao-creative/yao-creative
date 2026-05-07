@@ -14,7 +14,7 @@ I write a bit. My latest blog article : [Invariants](https://yiyaotan-site.verce
   
 - 🤔 My stack of to learn list: Generative Recommendation Systems (SIGIR, Recsys), Diffusion Models (In progress), Relational Foundational Models, MLOps (actual practice), Systems Design, Topological Data Analysis, Contextual Bandits, A/B testing, Reinforcement Learning and Control Systems, Applications of Graph Neural Networks, Causal ML, Geometric Deep Learning, Galois Theory, Functional Analysis, Dynamic Systems, Category Theory and Functional Programming, Structural Economics and Factor Models, Database Systems.
   
-- 💬 Things I know a bit about: Mathematical Network Topology, NLP and Topic Modeling, Double ML, Sparse Transformers, Algorithms, Full Stack Engineering (Fastapi, Next, React.js), Postgres, Docker, Azure, GCP deployments.
+- 💬 Things I know a bit about: Mathematical Network Topology, NLP and Topic Modeling, Double ML, Sparse Transformers (Mindspore (my main ml framework, I've dabbled with JAX, pytorch, and tensorflow), Algorithms, Full Stack Engineering (Fastapi, Next, React.js), Postgres, Docker, Azure, GCP deployments.
 
 - ⚒️ Recent Projects: [Hackathon: Open Pandemic Risk](https://github.com/yao-creative/Open-Pandemic-Risk)
 
