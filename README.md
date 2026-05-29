@@ -12,7 +12,7 @@ I write a bit. My latest blog article : [Invariants](https://yiyaotan-site.verce
   
 - 🌱 I'm currently studying Rust, Algorithms for context management and task execution for AI Agents by observing Open Source Repositories such as Codex, Reviewing my Algorithms.
   
-- 🤔 My stack of to learn list: Generative Recommendation Systems (SIGIR, Recsys), Diffusion Models (In progress), Relational Foundational Models, MLOps (actual practice), Systems Design, Topological Data Analysis, Contextual Bandits, A/B testing, Reinforcement Learning and Control Systems, Applications of Graph Neural Networks, Causal ML, Geometric Deep Learning, Random Matrix Theory, Groups, Rings, Modules, Applied Category Theory, Domain Theory, Functional Analysis, Dynamic Systems, Category Theory and Functional Programming, Structural Economics and Factor Models, Database Systems.
+- 🤔 My stack of to learn list: Generative Recommendation Systems (SIGIR, Recsys), Diffusion Models (In progress), Relational Foundational Models, MLOps (actual practice), Systems Design, Topological Data Analysis, Contextual Bandits, A/B testing, Reinforcement Learning and Control Systems, Applications of Graph Neural Networks, Causal ML, Geometric Deep Learning, Random Matrix Theory, Groups, Rings, Modules, Applied Category Theory, Domain Theory, Functional Analysis, Dynamic Systems, Functional Programming, Structural Economics and Factor Models, Database Systems.
   
 - 💬 Things I know a bit about: Mathematical Network Topology, NLP and Topic Modeling, Double ML, Sparse Transformers, Full Stack Engineering (Fastapi, Next, React.js), Postgres, Docker, Azure, GCP deployments.
 
