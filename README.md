@@ -16,7 +16,7 @@ I write a bit. My latest blog article : [Invariants](https://yiyaotan-site.verce
 
 - 📖 Education: (Masters) Oxford MFCoS, (Bachelor) École Polytechnique Math + CS.
   
-- 💬 Things I know a bit about: Mathematical Network Topology, NLP and Topic Modeling, Double ML, Sparse Transformers, Full Stack Engineering (Fastapi, Next, React.js), Postgres, Docker, Azure, GCP deployments.
+- 💬 Things I know a bit about: Mathematical Network Topology, NLP and Topic Modeling, Basic (Causal) Double ML, Sparse Transformers, Full Stack Engineering (Fastapi, Next, React.js), Postgres, Docker, Azure, GCP deployments.
 
 - ⚒️ Recent Projects: [Hackathon: Open Pandemic Risk](https://github.com/yao-creative/Open-Pandemic-Risk)
 
