@@ -8,7 +8,7 @@ I'm a Math + CS major.
 2. Problem framing is paramount both by perspective and by [Heilmeier's Catechisms](https://www.darpa.mil/about/heilmeier-catechism).
 3. I believe "Simple Solutions to Complex Problems" are provably better: according to Occam's Razor/ [Minimal Description Length (Information Theory)](https://en.wikipedia.org/wiki/Minimum_description_length) / [Solomonoff's theory of inductive inference
 ](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference); in fact, Josh from the Browser Company cites Mark Zuckerberg saying this in [Five Companies Inspiring Our Work Now](https://open.spotify.com/episode/6tgN9JH5p5k9mKn4OZcHP8?si=820e838a6a4d4681), also [Eugene Yan (Technical Staff at Anthropic) and previous Principle Scientist of Amazon](https://eugeneyan.com/writing/simplicity/), and the co-founder of DeepMind [Shane Legg](https://en.wikipedia.org/wiki/Shane_Legg) wrote his thesis on this. Very simply, two programs which output the same thing for every input, the shorter one has less arbitrary constraints to satisfy for future unseen inputs. Although this requires problem framing ability the way they do in Google's Brain teasers and Janestreet's puzzles for Quant Researchers.
-4. Prototyping to learn is actually just focused technical learning without combinatorial constraints of business software.
+4. Prototyping to learn is actually just focused technical learning without combinatorial constraints of business software. Both are important somewhat orthogonal signals which are important.
 5. I also believe good things happen when we keep trying. 
 
 I write a bit. My latest blog article : [Invariants](https://yiyaotan-site.vercel.app/blog/ee/invariants/)
