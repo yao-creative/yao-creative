@@ -4,6 +4,8 @@ I recently left my startup where I was technical co-founder in the Creator Indus
 
 I'm a Math + CS major.
 
+### Some Hypotheses:
+
 1. I believe that being a generalist is important to compress ownership, understanding of product, produces versatility of framing, challenges the way I think, and reduces communication tax.
 2. Problem framing is paramount both by perspective and by [Heilmeier's Catechisms](https://www.darpa.mil/about/heilmeier-catechism).
 3. I believe "Simple Solutions to Complex Problems" are provably better: according to Occam's Razor/ [Minimal Description Length (Information Theory)](https://en.wikipedia.org/wiki/Minimum_description_length) / [Solomonoff's theory of inductive inference
@@ -14,6 +16,8 @@ I'm a Math + CS major.
 
 I write a bit. My latest blog article : [Invariants](https://yiyaotan-site.vercel.app/blog/ee/invariants/)
 
+
+### More about me:
 - 📚 Book Recommendations: The Practicing Stoic (William Wordsworth), The Pragmatic Programmer (David Thomas, Andrew Hunt), Caves of Steel (Isaac Asimov), Emotional Intelligence (Daniel Goleman), Eugene Yan's Blog --> please give me some in return : D
 
 - 🔭 I'd be interested in working in Hard Science/ Technical roles in startups or other tech where I can learn a lot. Especially applied companies with long horizons.
