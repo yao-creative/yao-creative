@@ -8,7 +8,7 @@ I write a bit. My latest blog article : [Invariants](https://yiyaotan-site.verce
 
 - 📚 Book Recommendations: The Practicing Stoic (William Wordsworth), The Pragmatic Programmer (David Thomas, Andrew Hunt), Caves of Steel (Isaac Asimov), Emotional Intelligence (Daniel Goleman), Eugene Yan's Blog --> please give me some in return : D
 
-- 🔭 I'd be interested in working in Hard Science/ Technical roles in startups. Especially applied companies with long horizons.
+- 🔭 I'd be interested in working in Hard Science/ Technical roles in startups or other tech where I can learn a lot. Especially applied companies with long horizons.
   
 - 🌱 I'm currently studying reviewing my algorithms with [MIT math for CS](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf), learning data driven architectures with [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/), [Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/), and Studying concurrency with [The Art of MultiProcessor Programming](https://github.com/amilajack/reading/blob/master/Computer_Science/The%20Art%20of%20Multiprocessor%20Programming.pdf).  Also studying AI context management and task execution for AI Agents by observing Open Source Repositories such as Codex, Omnigent. Basically Uncargo-culting my engineering skills.
   
