@@ -30,7 +30,7 @@ I write a bit. My latest blog article : [Invariants](https://yiyaotan-site.verce
   
 - 💬 Things I know a bit about: Mathematical Network Topology, NLP and Topic Modeling, Basic (Causal) Double ML, Sparse Transformers, Full Stack Engineering (Fastapi, Next, React.js), Postgres, Docker, Azure, GCP deployments.
 
-- ⚒️ Recent Projects: [Hackathon: Open Pandemic Risk](https://github.com/yao-creative/Open-Pandemic-Risk)
+- ⚒️ Recent Projects: [Hackathon: Open Pandemic Risk](https://github.com/yao-creative/Open-Pandemic-Risk), [Anti Tech Debt](https://github.com/yao-creative/anti-tech-debt).
 
 - 📫 Reach me at yytanwork@gmail.com or https://www.linkedin.com/in/yi-yao-t-9719301a3/.
 
