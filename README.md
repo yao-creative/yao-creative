@@ -1,6 +1,7 @@
 ## Hi there 👋 my name is Yao!
 
 I recently left my startup where I was technical co-founder in the Creator Industry. Looking for opportunities with a preference to relocate to London.
+Previously, I did my thesis in the Complexity Economics (led by Doyne Farmer) / Math Department in Oxford for my Masters in Supply Chain Geometry. Before that I did my undergraduate Thesis in Huawei building Sparse Transformers.
 
 I'm a Math + CS major.
 
