@@ -32,7 +32,7 @@ I write a bit. My latest blog article : [Invariants](https://yiyaotan-site.verce
   
 - 💬 Things I know a bit about: Mathematical Network Topology, NLP and Topic Modeling, Basic (Causal) Double ML, Sparse Transformers, Full Stack Engineering (Fastapi, Next, React.js), Postgres, Docker, Azure, GCP deployments.
 
-- ⚒️ Recent Projects: [Hackathon: Open Pandemic Risk](https://github.com/yao-creative/Open-Pandemic-Risk), [Anti Tech Debt](https://github.com/yao-creative/anti-tech-debt).
+- ⚒️ Recent Projects: [Mini-codex-python](https://github.com/yao-creative/mini-codex-python).
 
 - 📫 Reach me at yytanwork@gmail.com or https://www.linkedin.com/in/yi-yao-t-9719301a3/.
 
