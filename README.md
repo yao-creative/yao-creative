@@ -3,6 +3,10 @@
 I recently left my startup where I was technical co-founder in the Creator Industry. Looking for opportunities with a preference to relocate to London.
 Previously, I did my thesis in the Complexity Economics (led by Doyne Farmer) / Math Department in Oxford for my Masters in Supply Chain Geometry. Before that I did my undergraduate Thesis in Huawei Research building Sparse Transformers and did my Bachelor's in École Polytechnique.
 
+Recent things I've learnt or learning: Set theory, Operating Systems, Order and Lattice Algebra, Monoid Algebra, Dependent Type Theory
+
+Soon: finish Operating systems, Dependent Type Theory, Algebraic Varieties of all types, Category Theory and Universal Algebra.
+
 I'm a Math + CS major.
 
 ### Some Hypotheses:
@@ -25,8 +29,6 @@ I write a bit. My latest blog article : [Invariants](https://yiyaotan-site.verce
 - 🔭 I'd be interested in working in Hard Science/ Technical roles in startups or other tech where I can learn a lot. Especially applied companies with long horizons.
   
 - 🌱 I'm currently studying reviewing my algorithms with [MIT math for CS](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf), learning operating systems with [Operating Systems Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/), [Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/), and Studying concurrency with [The Art of MultiProcessor Programming](https://github.com/amilajack/reading/blob/master/Computer_Science/The%20Art%20of%20Multiprocessor%20Programming.pdf).  Also studying AI context management and task execution for AI Agents by observing Open Source Repositories such as Codex, Sel4, Redox, DeepSeek. Basically Uncargo-culting my engineering skills. 
-  
-- 🤔 My stack of to learn list: Generative Recommendation Systems (SIGIR, Recsys), Diffusion Models via fields and generators, Relational Foundational Models, MLOps, Systems Design, Topological Data Analysis, Contextual Bandits, A/B testing, Reinforcement Learning and Control Systems, Applications of Graph Neural Networks, Causal ML, Geometric Deep Learning, Random Matrix Theory, Groups, Rings, Modules, Applied Category Theory, Domain Theory, Functional Analysis, Dynamic Systems, Functional Programming, Structural Economics and Factor Models, Database Systems.
 
 - 📖 Education: (Masters) Oxford MFCoS, (Bachelor) École Polytechnique Math + CS.
   
