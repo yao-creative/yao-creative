@@ -5,7 +5,7 @@ Previously, I did my thesis in the Complexity Economics (led by Doyne Farmer) / 
 
 Recent things I've learnt or learning: Set theory, Operating Systems, Order and Lattice Algebra, Monoid Algebra, Dependent Type Theory
 
-Soon: finish Operating systems, Dependent Type Theory, Algebraic Varieties of all types, Category Theory and Universal Algebra.
+Soon: finish Operating systems, Dependent Type Theory, Algebraic Geometry, Category Theory and Universal Algebra.
 
 I'm a Math + CS major.
 
